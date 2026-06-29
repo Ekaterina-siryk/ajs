@@ -1,0 +1,23 @@
+{
+  "name": "@ekaterina-siryk/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Ekaterina-siryk/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/Ekaterina-siryk/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ekaterina-siryk/ajs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/index.js",
+  "files":[
+    "src"
+  ],
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
